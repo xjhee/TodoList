@@ -1,0 +1,3 @@
+[submodule "frontend-todo"]
+	path = frontend-todo
+	url = https://github.com/xjhee/TodoList.git
